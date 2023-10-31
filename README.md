@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Moein Rezaee
 
 - Graphic Designer => (AdobeXD, Figma);
-- Fullstack Web Developer => {
-  === Front:(HTML,CSS,Js,Next.js,Nuxt.js),
-  === Backend: (Node.js, Asp.Net Core, C#),
-  === Database: (SQL Server, Postgress)
-  === ORM: (EF),
+- Fullstack Web Developer => { <br />
+  === Front:(HTML,CSS,Js,Next.js,Nuxt.js), <br />
+  === Backend: (Node.js, Asp.Net Core, C#), <br />
+  === Database: (SQL Server, Postgress) <br />
+  === ORM: (EF), <br />
 }
 - Blockchain => (Solidity, Web3.js)
 <!--
