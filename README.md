@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on part software group as node.js backend developer
 - 🌱 I’m currently learning bockchain
 - 👯 I’m looking to collaborate on remote (part-time)
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with find remote job
 - 💬 Ask me about javascript frameworks, web development, blockchain, graphic design
 - 📫 How to reach me: send me a message on linkedin
 - 😄 Pronouns: ping-pong, fifa, footbal, music, rainbow six siege
