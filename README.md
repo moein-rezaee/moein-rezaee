@@ -1,5 +1,13 @@
 ### Hi there 👋 I'm Moein Rezaee
 
+- Graphic Designer => (AdobeXD, Figma);
+- Fullstack Web Developer => {
+  === Front:(HTML,CSS,Js,Next.js,Nuxt.js),
+  === Backend: (Node.js, Asp.Net Core, C#),
+  === Database: (SQL Server, Postgress)
+  === ORM: (EF),
+}
+- Blockchain => (Solidity, Web3.js)
 <!--
 **moein-rezaee/moein-rezaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
