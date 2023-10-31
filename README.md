@@ -4,15 +4,14 @@
 - Fullstack Web Developer => { <br />
   === Front:(HTML,CSS,Js,Next.js,Nuxt.js), <br />
   === Backend: (Node.js, Asp.Net Core, C#), <br />
-  === Database: (SQL Server, Postgress) <br />
+  === Database: (SQL Server, Postgres) <br />
   === ORM: (EF), <br />
 }
 - Blockchain => (Solidity, Web3.js)
-<!--
-**moein-rezaee/moein-rezaee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
 
+<br />
+<br />
+ 
 - 🔭 I’m currently working on part software group as node.js backend developer
 - 🌱 I’m currently learning bockchain
 - 👯 I’m looking to collaborate on remote (part-time)
